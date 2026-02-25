@@ -1,5 +1,6 @@
 
 🛍 Customer Shopping Behavior Analysis
+
 📌 Project Overview
 
 This project analyzes 3,900 customer transactions to uncover purchasing patterns, revenue drivers, customer segments, and subscription behavior.
