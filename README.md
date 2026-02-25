@@ -27,7 +27,7 @@ Data Issue: 37 missing values in review_rating column (handled using median impu
 
 Python (Pandas, NumPy) – Data cleaning & feature engineering
 
-PostgreSQL – Business analysis queries
+MySQL – Business analysis queries
 
 Power BI – Interactive dashboard visualization
 
